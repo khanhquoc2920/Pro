@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Main() {
+ function Home() {
   return (
     <div className="main">
     <div className="main-header">
@@ -310,3 +310,4 @@ export default function Main() {
 </div>
   )
 }
+export default Home
